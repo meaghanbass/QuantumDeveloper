@@ -1,0 +1,20 @@
+{
+    "title": "Americana",
+    "name": "Americana-theme",
+    "description": "Theme based on the red, white and blue.",
+    "version": "1.0.",
+    "author": "Meaghan Bass (https://meaghanbass.io/)",
+    "homepage": "https://github.com/meaghanbass/Americana_theme",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:meaghanbass/Americana_theme"
+    },
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=1.0.0"
+    },
+    "theme": {
+        "file": "theme.css",
+        "dark": true
+    }
+}
