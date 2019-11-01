@@ -13,7 +13,7 @@
 
 .cm-meta,
 .cm-comment {
-    color: yellow;
+    color: #A2A2A2;
 }
 
 .cm-atom,
@@ -42,7 +42,7 @@
 
 .cm-operator,
 .cm-tag {
-    color: #FF4242;
+    color: #FF7DE9;
 }
 
 .cm-bracket,
@@ -60,7 +60,7 @@
  */
 .CodeMirror,
 .CodeMirror .CodeMirror-scroll {
-    background: #222;
+    background: #232327;
     color: #F8F8F2;
 }
 
